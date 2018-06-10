@@ -1,6 +1,8 @@
-## Download bitcoin block header (only once)
+## Create map pdf
 
 ```
-node bitcoin-block-download.js
-node write-pdf.js
+# Download bitcoin block header (only once)
+$ node bitcoin-block-download.js
+
+$ node write-pdf.js
 ```

@@ -1,3 +1,13 @@
+## Todo list
+
+* ~~薛丁格貓概念實驗換成薛丁格水熊來了~~
+* ~~NO BUG NO QUANTUMXEI~~
+* QX451 計算
+* map.txt
+* UET-like contract deployment
+* UET-like contract tool page
+
+
 ## Quantum Shield
 
 SVG.js | Manipulating http://svgjs.com/manipulating/
