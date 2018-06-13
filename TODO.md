@@ -2,6 +2,8 @@
 
 * ~~薛丁格貓概念實驗換成薛丁格水熊來了~~
 * ~~NO BUG NO QUANTUMXEI~~
+* ~~Penrose Triangle~~  潘洛斯三角 - 維基百科
+ https://zh.wikipedia.org/wiki/%E6%BD%98%E6%B4%9B%E6%96%AF%E4%B8%89%E8%A7%92
 * QX451 計算
 * map.txt
 * UET-like contract deployment
